@@ -4,6 +4,7 @@
   "description": "Task Management Application with full-stack CRUD, JWT auth, WebSocket real-time updates",
   "scripts": {
     "start": "cd backend && npm start",
+    "dev": "cd backend && npm start",
     "install-backend": "cd backend && npm install"
   }
 }
