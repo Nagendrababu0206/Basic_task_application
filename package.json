@@ -1,0 +1,9 @@
+{
+  "name": "basic-task-application",
+  "version": "1.0.0",
+  "description": "Task Management Application with full-stack CRUD, JWT auth, WebSocket real-time updates",
+  "scripts": {
+    "start": "cd backend && npm start",
+    "install-backend": "cd backend && npm install"
+  }
+}
